@@ -7,3 +7,4 @@
 - [2026-04-02T21:11:28Z] docs: improve inline documentation
 - [2026-04-02T11:19:58Z] refactor: clean up unused imports
 - [2026-04-02T22:33:42Z] chore: remove deprecated API calls
+- [2026-04-02T11:00:32Z] chore: update dependencies to latest versions
